@@ -1,4 +1,4 @@
-# my-portfolio
+# My-portfolio
 # Hi, I'm Prashanth R
 
 ### About Me
